@@ -2,6 +2,6 @@
 
 ## 목차
 
-* [Git](./git)
-* 
+* [Git](./git사용법.md)
+* [알고리즘](./algorithms)
 
